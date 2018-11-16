@@ -1,31 +1,22 @@
 # CodeLou_FrontEnd
 
 ## Description
-```
-A brief description of your project
 
-```
+I created a website with links to my gallery, blog, and community activism projects.
+
 
 
 
 ## Custom CSS Classes
-```
-The class(es) I created are:
+bodyStyle - sets the background color to black
 
-1. class name ex( .main-info-section )
-.. what class does, ex( adds padding & changes background color of .main-info-section )
+center - centers content on the page
 
-2.
+grid-container - used to create a three column grid
 
-```
-
+tooltip, tooltiptext - these allow showing text when you hover the mouse over a particular image.
 
 
 ## Custom JavaScript Functions
-```
-The javascript functions I created are:
 
-1. function name ex( animate() )
-.. what function does ex( animate() is used to move the elements in the info div across the screen)
-
-```
+function proveIKnowJavaScript() Raises an alert with the text "I know JavaScript" clicking the "Prove I know JavaScript" calls the function. 
